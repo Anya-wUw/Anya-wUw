@@ -5,7 +5,7 @@
 - 👩‍💻 I’m Data Scientist & Python Dev <br>
 - 🏛️ I'm studying for a bachelor's degree at Mendeleev university <br>
 - 👾 My skiils: Python, Django, Matlab <br>
-- 🤖 Learning Deep Learning, Machine Learning <br>
+- 🤖 Studying Deep Learning, Machine Learning <br>
 
 🌐 My Kaggle: https://www.kaggle.com/anyaborisyuk
 
