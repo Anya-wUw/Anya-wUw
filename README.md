@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Anna Borisyuk
-<img align='right' src="https://i.gifer.com/Ao.gif" width="230">
+<img align='right' src="https://camo.githubusercontent.com/bc5c77acb656737f31a814e6b1406b4a7d6561bf910db19b23ae228aa6aa6f6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6457784f33364a7a643662545374356449592f67697068792e676966" width="230">
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A more about me:
@@ -11,5 +11,3 @@
 💌 Contact with me:
 - email: mykittyistoocute@mail.ru
 - telegram: https://t.me/wtfUwU
-
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/NPVm" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
