@@ -1,4 +1,5 @@
 ### Hi there 👋, My name is Anna Borisyuk
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 
 - 👩‍💻 I’m Data Scientist & Python Dev <br>
@@ -10,4 +11,3 @@
 - email: mykittyistoocute@mail.ru
 - telegram: https://t.me/wtfUwU
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
