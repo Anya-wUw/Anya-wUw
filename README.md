@@ -14,4 +14,4 @@
 - telegram: https://t.me/wtfUwU
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anya-wUw&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Anya-wUw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anya-wUw&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/Anya-wUw/github-readme-stats)
