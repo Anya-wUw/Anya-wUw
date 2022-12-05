@@ -7,8 +7,11 @@
 - 👾 My skiils: Python, PyTorch, Django + Web skills, Matlab<br>
 - 🤖 Studying Deep Learning, Machine Learning <br>
 
-🌐 My Kaggle: https://www.kaggle.com/anyaborisyuk
+### 🌐 My Kaggle: https://www.kaggle.com/anyaborisyuk
 
-💌 Contact with me:
+### 💌 Contact with me:
 - email: mykittyistoocute@mail.ru
 - telegram: https://t.me/wtfUwU
+
+### Stats
+[![Anya-wUw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anya-wUw)](https://github.com/Anya-wUw/github-readme-stats)
