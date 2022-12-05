@@ -4,7 +4,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me:
 - 👩‍💻 I’m Data Scientist & Python Dev <br>
 - 🏛️ I'm studying for a bachelor's degree at Mendeleev university in the program information networks and Technologies<br>
-- 👾 My skiils: Python, PyTorch, Django + Web skills, Matlab<br>
+- 👾 My skiils: Python, PyTorch, Django + Web skills, Matlab, PostgreSql<br>
 - 🤖 Studying Deep Learning, Machine Learning <br>
 
 ### 🌐 My Kaggle: https://www.kaggle.com/anyaborisyuk
