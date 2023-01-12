@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=bd86f0&width=435&lines=Anna+Borisyuk)](https://git.io/typing-svg)
-<img align='right' src="https://i.pinimg.com/originals/87/d0/bd/87d0bdc1b7ccd748105ec566882ea0a8.gif" width="230">
+<img align='right' src="[https://i.pinimg.com/originals/87/d0/bd/87d0bdc1b7ccd748105ec566882ea0a8.gif](https://i.pinimg.com/originals/73/2b/e2/732be241b7fda06dc38b3151d93446ae.gif)" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me:
 - 👩‍💻 I’m Data Scientist & Python Dev <br>
