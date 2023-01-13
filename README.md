@@ -8,11 +8,11 @@
 - 🤖 Studying Deep Learning, Machine Learning <br>
 
 ### 🌐 My Kaggle: https://www.kaggle.com/anyaborisyuk
+### 🌐 My LeetCode: https://leetcode.com/Anya-wUw/
 
 ### 💌 Contact with me:
 - email: mykittyistoocute@mail.ru
 - telegram: https://t.me/wtfUwU
-- LeetCode: https://leetcode.com/Anya-wUw/
 
 ### 🦾Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anya-wUw&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/Anya-wUw/github-readme-stats)
