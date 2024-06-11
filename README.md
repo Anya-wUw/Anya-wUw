@@ -2,9 +2,9 @@
 <img align='right' src="https://i.pinimg.com/originals/25/da/81/25da81c5a0d93b369bc84f2f833a9708.gif" width="200">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me:
-- 👩‍💻 I’m Data Scientist & Python Dev <br>
-- 🏛️ Studying for a bachelor's degree at Mendeleev uni.: Information Networks and Technologies<br>
-- 👾 My skiils: Python, PyTorch, Django + Web skills, C++, Matlab, PostgreSql<br>
+- 👩‍💻 Data Scientist<br>
+- 🏛️ Graduate for a bachelor's degree at Mendeleev uni.: Information Networks and Technologies<br>
+- 👾 My skills: ML, NLP (Python, PyTorch), Web skills(Django) <br>
 
 ### 🌐 My Kaggle: https://www.kaggle.com/anyaborisyuk
 ### 🌐 My LeetCode: https://leetcode.com/Anya-wUw/
