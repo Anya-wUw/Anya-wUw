@@ -3,14 +3,14 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me:
 - 👩‍💻 Data Scientist<br>
-- 🏛️ Bachelor at Mendeleev uni.: Information Systems and Technology<br>
 - 🏛️ Studying for Master's at Skoltech: Data Science<br>
-- 👾 My skills: ML, NLP, LLM, Multimodal <br>
+- 🏛️ Bachelor at Mendeleev uni.: Information Systems and Technology<br>
+- 👾 My skills: NLP, LLM, Multimodality <br>
 
 ### 🌐 My Kaggle: https://www.kaggle.com/anyaborisyuk
 
 ### 💌 Contact with me:
-- email: mykittyistoocute@mail.ru
+- email: a8or1suk@gmail.com
 - telegram: https://t.me/AnniBori
 
 ### 🦾Stats:
