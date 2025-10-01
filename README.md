@@ -3,14 +3,13 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me:
 - 👩‍💻 LLM Research Scientist, ML Engeneer<br>
-- 🏛️ Studying in Skoltech's Master's program: Data Science<br>
+- 🏛️ Studying in Master's program: Data Science<br>
 - 👾 My skills: NLP, LLM, Multimodality <br>
 
 ### 🌐 My Kaggle: https://www.kaggle.com/anyaborisyuk
 
 ### 💌 Contact with me:
 - email: a8or1suk@gmail.com
-- telegram: https://t.me/AnniBori
 
 ### 🦾Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anya-wUw&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/Anya-wUw/github-readme-stats)
