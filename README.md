@@ -4,7 +4,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me:
 - 👩‍💻 LLM Research Scientist, ML Engeneer<br>
 - 🏛️ Studying in Master's program: Data Science<br>
-- 👾 My skills: NLP, LLM, Multimodality <br>
+- 👾 My skills: NLP, LLM, AI Safety <br>
 
 ### 🌐 My Kaggle: https://www.kaggle.com/anyaborisyuk
 
